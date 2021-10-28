@@ -37,8 +37,9 @@ export const useStyles = makeStyles((theme: Theme) =>
             appBar:{
                 width:220,
                 height:130,
-                marginTop: -200,
+                marginTop: -193,
                 alignItems:"center",
+
 
             },
             linkDecoration: {
@@ -49,7 +50,7 @@ export const useStyles = makeStyles((theme: Theme) =>
             },
             dropDownMenuColor: {
                 color: '#ffffff',
-                backgroundColor:'#c4e014',
+                backgroundColor:'#2f2f31',
                 marginRight: theme.spacing(2),
             },
             paper: {
@@ -70,7 +71,7 @@ export const useStyles = makeStyles((theme: Theme) =>
             grid: {
                 justify:"center",
                 alignItems:"center",
-                fontSize:25,
+                fontSize:20,
                 marginTop: 50,
                 marginRight:-59
             },
@@ -89,14 +90,14 @@ export const useStyles = makeStyles((theme: Theme) =>
             logo: {
                 width: 260,
                 height:190,
-                marginLeft:10,
-                marginTop:8
+                marginLeft:-26,
+
 
             },
             logo1: {
-                width: 260,
-                height:190,
-                marginLeft:5
+                width: 220,
+                height:140,
+                marginLeft:20
 
 
             },
